@@ -1,0 +1,4 @@
+- Hi, I’m @AhmedRaiyah
+- I’m interested in Web Development and PM
+- I’m currently learning C++, HTML, CSS, & JS
+- Connect with me on LinkedIn: www.linkedin.com/in/ahmed-raiyh/
