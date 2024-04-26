@@ -1,3 +1,6 @@
 - Hi, I’m @AhmedRaiyah
-- I’m interested in Web Development and PM
-- I’m currently learning C++, HTML, CSS, & JS
+- I’m CS undergraduate and a tecnology enthusiast with passion for C++ and Frontend Web Development
+- I'm proficient in:
+- C++, Java, HTML5, CSS3, and JavaScript
+
+
